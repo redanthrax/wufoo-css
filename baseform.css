@@ -25,3 +25,11 @@ input[type='submit'] {
     cursor: pointer;
     color: #fff;
 }
+
+.instruct {
+    background: #353940;
+}
+
+.instruct small {
+    color: #fff;
+}
