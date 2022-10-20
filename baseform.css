@@ -33,3 +33,7 @@ input[type='submit'] {
 .instruct small {
     color: #fff;
 }
+
+.note {
+    font-size: 18px;
+}
