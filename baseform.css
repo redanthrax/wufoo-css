@@ -37,3 +37,9 @@ input[type='submit'] {
 .note {
     font-size: 18px;
 }
+.noselect input {
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+    border: none;
+}
